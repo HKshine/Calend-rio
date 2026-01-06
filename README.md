@@ -25,3 +25,18 @@ calendario-html/
 ├── style.css
 ├── script.js
 └── README.md
+
+## ▶️ Como Executar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/calendario-html.git
+📸 Demonstração
+
+Basta abrir o arquivo index.html para visualizar o calendário em funcionamento.
+📄 Licença
+
+Este projeto está licenciado sob a MIT License.
+Sinta-se à vontade para usar, modificar e distribuir.
+
+⭐ Se este projeto te ajudou, deixe uma estrela no GitHub!
