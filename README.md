@@ -1,23 +1,22 @@
-# 🧮 Calculadora em HTML
+# 📅 Calendário em HTML
+<img width="1135" height="591" alt="Captura de tela 2026-01-06 154920" src="https://github.com/user-attachments/assets/0dbd568e-0b72-4ea6-bb37-9bd46bc6ae49" />
 
-Uma calculadora simples e funcional desenvolvida utilizando **HTML**, **CSS** e **JavaScript**, com foco em design moderno, usabilidade e facilidade de uso.
+Um calendário moderno e interativo desenvolvido com **HTML**, **CSS** e **JavaScript**, exibindo data atual, dias da semana e navegação entre meses.
 
 ## 🚀 Funcionalidades
 
-- Operações básicas:
-  - ➕ Adição
-  - ➖ Subtração
-  - ✖️ Multiplicação
-  - ➗ Divisão
-- Botão de limpar (C)
-- Interface responsiva
-- Design moderno e intuitivo
-- Funciona diretamente no navegador (sem dependências)
+- Exibe o mês e ano atuais
+- Navegação entre meses (anterior / próximo)
+- Destaque do dia atual
+- Interface moderna e responsiva
+- Funciona 
+offline (sem bibliotecas externas)
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **HTML5** – Estrutura da aplicação  
-- **CSS3** – Estilização e layout  
-- **JavaScript** – Lógica da calculadora  
+- **HTML5** – Estrutura do calendário  
+- **CSS3** – Estilização moderna  
+- **JavaScript** – Lógica de datas e navegação  
 
 ## 📂 Estrutura do Projeto
+
