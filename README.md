@@ -19,4 +19,9 @@ offline (sem bibliotecas externas)
 - **JavaScript** – Lógica de datas e navegação  
 
 ## 📂 Estrutura do Projeto
-
+calendario-html/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
